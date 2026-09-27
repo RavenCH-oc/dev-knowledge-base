@@ -162,10 +162,10 @@ ________________________________________________________________________________
 
 一、 文字與字串型別 (Text / String)
 
-NVARCHAR(n)：變長度 Unicode 字串（1 個字吃 2 bytes），支援中文、日文、特殊符號。
-VARCHAR(n)：變長度非 Unicode 字串（1 個英文字吃 1 byte），不支援中文字。
-CHAR(n)：定長度字串。長度固定，不足補空白。
-NVARCHAR(MAX)：超長文字內容（最大可存 2 GB）。
+NVARCHAR(n)：變長度 Unicode 字串（1 個字吃 2 bytes），支援中文、日文、特殊符號。\n
+VARCHAR(n)：變長度非 Unicode 字串（1 個英文字吃 1 byte），不支援中文字。\n
+CHAR(n)：定長度字串。長度固定，不足補空白。\n
+NVARCHAR(MAX)：超長文字內容（最大可存 2 GB）。\n
 
 二、 數值型別 (Numeric)
 
